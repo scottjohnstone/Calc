@@ -28,4 +28,4 @@ Steps:
 	Microsoft.extensions.configuration.json
 	Specflow.plus.livingdocplugin
 	Specflow.xunit
-  xunit
+	xunit
