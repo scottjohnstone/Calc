@@ -1,5 +1,6 @@
 # Calc
 This is my own modified sample for UI test automation of the Windows calculator using SpecFlow + Appium + WinAppDriver + xUnit
+
 Built using VS2019 + .NET 5 + xUnit test runner
 
 I made my own using a lot of copy/paste and documented it along the way, as I couldn't get the OOB samples to work.
